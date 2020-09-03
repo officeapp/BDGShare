@@ -3,10 +3,10 @@ Pod::Spec.new do |s|
   s.version        	= '0.0.11'
   s.summary        	= 'Lightweight sharing class with completion blocks for facebook, twitter, whatsapp, e-mail, sms, etc.'
   s.description 	= 'Share using facebook, twitter, whatsapp, email, text message, activitycontroller, documentinteractioncontroller, all with 1 line and great completion blocks'
-  s.homepage       	= 'https://github.com/BobDG/BDGShare'
+  s.homepage       	= 'https://github.com/officeapp/BDGShare'
   s.authors        	= {'Bob de Graaf' => 'graafict@gmail.com'}
   s.license 		= 'MIT'
-  s.source         	= { :git => 'https://github.com/BobDG/BDGShare.git', :tag => '0.0.11' }
+  s.source         	= { :git => 'https://github.com/officeapp/BDGShare.git', :tag => '0.0.11' }
   s.source_files   	= '**/*.{h,m}'
   s.frameworks 	    	= 'Social', 'MessageUI'
   s.platform       	= :ios
